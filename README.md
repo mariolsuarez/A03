@@ -1,6 +1,14 @@
 # A03
-Task: (1)to create a github repository; (2) of a tutorial of how to create a github depository; (3) define common terminology used with github.
+TASK: There are 3 tasks:
+(1)to create a github repository; 
+(2) tutorial of how to use Git and GitHub 
+(3) define common terminology used with GitHub.
 
+TASK (2): How to use Git and GitHub
+
+
+
+TASK (3): Common Terminology Used with GitHub:
 
 Git is a command-line and is an open-sourced version control.
 
@@ -26,3 +34,6 @@ A merge conflict refers to when there is a change in one file that conflicts wit
 Fetch refers to getting the newest changes in GitHub without merging them and you can compare these changes to your local branches.
 
 Remote refers to the repository created in GitHub.  It shows all the remote versions of your repository.
+
+REFERENCES:
+https://guides.github.com
