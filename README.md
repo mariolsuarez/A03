@@ -1,4 +1,7 @@
 # A03
+Task: (1)to create a github repository; (2) of a tutorial of how to create a github depository; (3) define common terminology used with github.
+
+
 Git is a command-line and is an open-sourced version control.
 
 GitHub is a service that allows users to host and save  Git repositories online. GitHub has social networking tools that make collaborating on projects much more efficient.
