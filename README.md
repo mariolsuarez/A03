@@ -1,14 +1,9 @@
 # A03
-TASK: There are 3 tasks:
-(1)to create a github repository; 
-(2) tutorial of how to use Git and GitHub 
-(3) define common terminology used with GitHub.
+TASK: 
+To create a GitHub repo and define common terms.
 
-TASK (2): How to use Git and GitHub
-
-
-
-TASK (3): Common Terminology Used with GitHub:
+FEATURE: 
+Definition of Common Terms
 
 Git is a command-line and is an open-sourced version control.
 
