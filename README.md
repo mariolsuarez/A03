@@ -1,4 +1,4 @@
-# A03
+# Common Git Terms
 TASK: 
 To create a GitHub repo and define common terms.
 
